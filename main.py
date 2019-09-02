@@ -10,7 +10,7 @@ package_nameL =[]
 
 def inputsOut(self=None):
 	console("\n")
-	console("Hip Pop Virtual Machine currently running on a command line interface\n")
+	console("Hip Pop Virtual Server currently running on a command line interface\n")
 	console("Type hpm-run to begin(NOTE: This will start all Hip Pop Services)\n")
 inputsOut(self=None)
 
