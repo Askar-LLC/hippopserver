@@ -1,0 +1,14 @@
+{
+	"name": "HHVMP",
+	"version": "1.0.0",
+	"description": "A simple virtual machine that run python code",
+	"author": "Askar LLC",
+},
+
+"contributor": [
+{
+	"name": "victor sunday",
+	"email": "geckosearch2018@gmail.com"
+
+}
+]
